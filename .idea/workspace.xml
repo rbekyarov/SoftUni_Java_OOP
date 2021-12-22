@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98369dde-4295-462e-8f74-41041723d600" name="Changes" comment="" />
+    <list default="true" id="0183d89a-8ed0-4381-ba72-fd673e3ec4d8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectId" id="22eU8hhzswkm5ezK7SOzuLPzSbb" />
+  <component name="ProjectId" id="22eljZeHdrBv7fFPElkOXJaFx98" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,17 +16,22 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rbekyarov\IdeaProjects\oop\src" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="98369dde-4295-462e-8f74-41041723d600" name="Changes" comment="" />
-      <created>1640197388638</created>
+      <changelist id="0183d89a-8ed0-4381-ba72-fd673e3ec4d8" name="Changes" comment="" />
+      <created>1640206071181</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1640197388638</updated>
-      <workItem from="1640197390608" duration="32000" />
+      <updated>1640206071181</updated>
+      <workItem from="1640206072422" duration="117000" />
+      <workItem from="1640206209763" duration="14000" />
     </task>
     <servers />
   </component>
