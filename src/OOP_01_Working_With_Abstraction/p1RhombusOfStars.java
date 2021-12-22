@@ -26,7 +26,7 @@ public class p1RhombusOfStars {
         System.out.println();
 
         //print bottom
-        for (int row = 1; row <= n - 1; row++) {
+        for (int row = 1; row <= n ; row++) {
             for (int i = 0; i < row; i++) {
                 System.out.print(" ");
             }
