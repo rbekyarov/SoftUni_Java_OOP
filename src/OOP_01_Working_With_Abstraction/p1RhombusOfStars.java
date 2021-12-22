@@ -10,19 +10,19 @@ public class p1RhombusOfStars {
 
         for (int row = 1; row <= n; row++) {
 
-            for (int s = 0; s < n - row; s++) {
+            for (int i = 0; i < n - row; i++) {
                 System.out.print(" ");
             }
-            for (int s = 0; s < row; s++) {
+            for (int i = 0; i < row; i++) {
                 System.out.print("* ");
             }
             System.out.println();
         }
         for (int row = 1; row <= n - 1; row++) {
-            for (int space = 0; space < row; space++) {
+            for (int i = 0; i < row; i++) {
                 System.out.print(" ");
             }
-            for (int star = 0; star < n - row; star++) {
+            for (int i = 0; i < n - row; i++) {
                 System.out.print("* ");
             }
             System.out.println();
