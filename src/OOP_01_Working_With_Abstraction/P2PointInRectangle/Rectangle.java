@@ -9,9 +9,9 @@ public class Rectangle {
         this.topRight = topRight;
     }
 
-    public boolean contains(Point point2D) {
-        return point2D.getX() >= bottomLeft.getX() && point2D.getX() <= topRight.getX() &&
-                point2D.getY() >= bottomLeft.getY() && point2D.getY() <= topRight.getY();
+    public boolean contains(Point point) {
+        return point.getX() >= bottomLeft.getX() && point.getX() <= topRight.getX() &&
+                point.getY() >= bottomLeft.getY() && point.getY() <= topRight.getY();
     }
 
 }
