@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0183d89a-8ed0-4381-ba72-fd673e3ec4d8" name="Changes" comment="Working With Abstraction">
-      <change afterPath="$PROJECT_DIR$/src/OOP_01_Working_With_Abstraction/P4HotelReservation/Discount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_01_Working_With_Abstraction/P4HotelReservation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_01_Working_With_Abstraction/P4HotelReservation/PriceCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_01_Working_With_Abstraction/P4HotelReservation/Season.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_02_Exercise_Working_With_Abstraction/P1CardSuit/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_02_Exercise_Working_With_Abstraction/P1CardSuit/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +41,7 @@
       <recent name="C:\Users\rbekyarov\IdeaProjects\oop\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOP_01_Working_With_Abstraction.P3StudentSystem.Main" />
       <module name="SoftUni_Java_OOP" />
@@ -70,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP_01_Working_With_Abstraction.P2PointInRectangle.Main" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP_02_Exercise_Working_With_Abstraction.P1CardSuit.Main" />
       <module name="SoftUni_Java_OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP_01_Working_With_Abstraction.P2PointInRectangle.*" />
+          <option name="PATTERN" value="OOP_02_Exercise_Working_With_Abstraction.P1CardSuit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p1RhombusOfStars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP_01_Working_With_Abstraction.p1RhombusOfStars" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP_01_Working_With_Abstraction.P2PointInRectangle.Main" />
       <module name="SoftUni_Java_OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP_01_Working_With_Abstraction.*" />
+          <option name="PATTERN" value="OOP_01_Working_With_Abstraction.P2PointInRectangle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.p1RhombusOfStarsMethods" />
-        <item itemvalue="Application.p1RhombusOfStars" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +127,7 @@
       <updated>1640206071181</updated>
       <workItem from="1640206072422" duration="117000" />
       <workItem from="1640206209763" duration="14000" />
-      <workItem from="1640206266341" duration="21569000" />
+      <workItem from="1640206266341" duration="23264000" />
     </task>
     <task id="LOCAL-00001" summary="d">
       <created>1640206288722</created>
@@ -201,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640274656743</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Working With Abstraction">
+      <created>1640276919941</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1640276919941</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,6 +245,11 @@
           <url>file://$PROJECT_DIR$/src/OOP_01_Working_With_Abstraction/P3StudentSystem/Main.java</url>
           <line>27</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OOP_02_Exercise_Working_With_Abstraction/P1CardSuit/Main.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
