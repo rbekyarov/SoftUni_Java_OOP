@@ -7,8 +7,8 @@ public enum CardSuit {
     SPADES(39);
 
     private int power;
-    CardSuit(int value){
-        this.power =value;
+    CardSuit(int power){
+        this.power =power;
     }
 
     public int getPower() {

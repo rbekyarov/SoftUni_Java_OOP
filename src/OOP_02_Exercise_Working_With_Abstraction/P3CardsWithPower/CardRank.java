@@ -16,8 +16,8 @@ public enum CardRank {
     KING(13);
     private int power;
 
-    CardRank(int value) {
-        this.power = value;
+    CardRank(int power) {
+        this.power = power;
     }
 
     public int getPower() {
