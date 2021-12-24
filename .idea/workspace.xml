@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0183d89a-8ed0-4381-ba72-fd673e3ec4d8" name="Changes" comment="Exercise: Working With Abstraction">
-      <change beforePath="$PROJECT_DIR$/src/OOP_02_Exercise_Working_With_Abstraction/P3CardsWithPower/CardRank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_02_Exercise_Working_With_Abstraction/P3CardsWithPower/CardRank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_02_Exercise_Working_With_Abstraction/P3CardsWithPower/CardSuit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_02_Exercise_Working_With_Abstraction/P3CardsWithPower/CardSuit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_02_Exercise_Working_With_Abstraction/P4TrafficLights/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_02_Exercise_Working_With_Abstraction/P4TrafficLights/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_02_Exercise_Working_With_Abstraction/P4TrafficLights/TrafficLight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,21 +41,11 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\rbekyarov\IdeaProjects\oop\src" />
     </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="OOP_02_Exercise_Working_With_Abstraction.P4TrafficLights" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Main (5)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP_01_Working_With_Abstraction.P3StudentSystem.Main" />
-      <module name="SoftUni_Java_OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OOP_01_Working_With_Abstraction.P3StudentSystem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOP_01_Working_With_Abstraction.P4HotelReservation.Main" />
       <module name="SoftUni_Java_OOP" />
@@ -106,13 +98,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP_02_Exercise_Working_With_Abstraction.P4TrafficLights.Main" />
+      <module name="SoftUni_Java_OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP_02_Exercise_Working_With_Abstraction.P4TrafficLights.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -126,7 +131,8 @@
       <updated>1640206071181</updated>
       <workItem from="1640206072422" duration="117000" />
       <workItem from="1640206209763" duration="14000" />
-      <workItem from="1640206266341" duration="27060000" />
+      <workItem from="1640206266341" duration="27663000" />
+      <workItem from="1640361562106" duration="1520000" />
     </task>
     <task id="LOCAL-00001" summary="d">
       <created>1640206288722</created>
@@ -226,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640340754593</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Exercise: Working With Abstraction">
+      <created>1640341059949</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1640341059949</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,6 +255,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="d" />
@@ -271,6 +285,11 @@
           <url>file://$PROJECT_DIR$/src/OOP_02_Exercise_Working_With_Abstraction/P1CardSuit/Main.java</url>
           <line>6</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OOP_02_Exercise_Working_With_Abstraction/P4TrafficLights/Main.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
