@@ -1,12 +1,12 @@
 package OOP_03_Encapsulation.P1SortByNameAndAge;
 
-public class Person {
+public class Person1 {
     private String firstName;
     private String lastName;
     private int age;
 
 
-    public Person(String firstName, String lastName, int age) {
+    public Person1(String firstName, String lastName, int age, double v) {
         this.firstName = firstName;
         this.lastName = lastName;
         this.age = age;

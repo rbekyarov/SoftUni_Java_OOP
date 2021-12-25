@@ -12,10 +12,10 @@ public class Main {
 
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         int n = Integer.parseInt(reader.readLine());
-        List<Person> people = new ArrayList<>();
+        List<Person1> people = new ArrayList<>();
         for (int i = 0; i < n; i++) {
             String[] input = reader.readLine().split(" ");
-            people.add(new Person(input[0], input[1], Integer.parseInt(input[2])));
+            people.add(new Person1(input[0], input[1], Integer.parseInt(input[2]), Double.parseDouble(input[3])));
         }
         Collections.sort(people, (firstPerson, secondPerson) -> {
             int sComp = firstPerson.getFirstName().compareTo(secondPerson.getFirstName());
@@ -27,7 +27,7 @@ public class Main {
             }
         });
 
-        for (Person person : people) {
+        for (Person1 person : people) {
             System.out.println(person.toString());
         }
     }
