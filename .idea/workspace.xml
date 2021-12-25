@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0183d89a-8ed0-4381-ba72-fd673e3ec4d8" name="Changes" comment="Exercise: Working With Abstraction">
-      <change afterPath="$PROJECT_DIR$/src/OOP_02_Exercise_Working_With_Abstraction/P4TrafficLights/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_02_Exercise_Working_With_Abstraction/P4TrafficLights/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_02_Exercise_Working_With_Abstraction/P4TrafficLights/TrafficLight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_03_Encapsulation/P1SortByNameAndAge/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_03_Encapsulation/P1SortByNameAndAge/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,13 +44,13 @@
       <recent name="OOP_02_Exercise_Working_With_Abstraction.P4TrafficLights" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP_01_Working_With_Abstraction.P4HotelReservation.Main" />
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP_03_Encapsulation.P1SortByNameAndAge.Main" />
       <module name="SoftUni_Java_OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP_01_Working_With_Abstraction.P4HotelReservation.*" />
+          <option name="PATTERN" value="OOP_03_Encapsulation.P1SortByNameAndAge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +131,7 @@
       <workItem from="1640206072422" duration="117000" />
       <workItem from="1640206209763" duration="14000" />
       <workItem from="1640206266341" duration="27663000" />
-      <workItem from="1640361562106" duration="1520000" />
+      <workItem from="1640361562106" duration="4531000" />
     </task>
     <task id="LOCAL-00001" summary="d">
       <created>1640206288722</created>
@@ -239,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640341059949</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Exercise: Working With Abstraction">
+      <created>1640363331432</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1640363331432</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -285,11 +291,6 @@
           <url>file://$PROJECT_DIR$/src/OOP_02_Exercise_Working_With_Abstraction/P1CardSuit/Main.java</url>
           <line>6</line>
           <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/OOP_02_Exercise_Working_With_Abstraction/P4TrafficLights/Main.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
