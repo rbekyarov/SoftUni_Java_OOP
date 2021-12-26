@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0183d89a-8ed0-4381-ba72-fd673e3ec4d8" name="Changes" comment="Encapsulation">
-      <change afterPath="$PROJECT_DIR$/src/OOP_03_Encapsulation/P2SalaryIncrease/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_03_Encapsulation/P2SalaryIncrease/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_03_Encapsulation/P3ValidationData/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_03_Encapsulation/P3ValidationData/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_03_Encapsulation/P1SortByNameAndAge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_03_Encapsulation/P1SortByNameAndAge/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_03_Encapsulation/P1SortByNameAndAge/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_03_Encapsulation/P1SortByNameAndAge/Person1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +44,20 @@
       <recent name="OOP_02_Exercise_Working_With_Abstraction.P4TrafficLights" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP_03_Encapsulation.P3ValidationData.Main" />
+      <module name="SoftUni_Java_OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP_03_Encapsulation.P3ValidationData.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOP_03_Encapsulation.P2SalaryIncrease.Main" />
       <module name="SoftUni_Java_OOP" />
@@ -114,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +144,7 @@
       <workItem from="1640206072422" duration="117000" />
       <workItem from="1640206209763" duration="14000" />
       <workItem from="1640206266341" duration="27663000" />
-      <workItem from="1640361562106" duration="7071000" />
+      <workItem from="1640361562106" duration="13182000" />
     </task>
     <task id="LOCAL-00001" summary="d">
       <created>1640206288722</created>
@@ -254,7 +265,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640449598004</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Encapsulation">
+      <created>1640453437893</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1640453437893</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
