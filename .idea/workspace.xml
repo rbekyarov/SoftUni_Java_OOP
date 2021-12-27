@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0183d89a-8ed0-4381-ba72-fd673e3ec4d8" name="Changes" comment="Encapsulation">
-      <change afterPath="$PROJECT_DIR$/src/OOP_03_Encapsulation/P4FirstAndReserveTeam/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_03_Encapsulation/P4FirstAndReserveTeam/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_03_Encapsulation/P4FirstAndReserveTeam/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_04_Exercise_Encapsulation/P1ClassBox/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_04_Exercise_Encapsulation/P1ClassBox/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +52,7 @@
       <recent name="OOP_02_Exercise_Working_With_Abstraction.P4TrafficLights" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOP_03_Encapsulation.P3ValidationData.Main" />
       <module name="SoftUni_Java_OOP" />
@@ -93,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP_02_Exercise_Working_With_Abstraction.P3CardsWithPower.Main" />
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP_04_Exercise_Encapsulation.P1ClassBox.Main" />
       <module name="SoftUni_Java_OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP_02_Exercise_Working_With_Abstraction.P3CardsWithPower.*" />
+          <option name="PATTERN" value="OOP_04_Exercise_Encapsulation.P1ClassBox.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP_02_Exercise_Working_With_Abstraction.P4TrafficLights.Main" />
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP_02_Exercise_Working_With_Abstraction.P3CardsWithPower.Main" />
       <module name="SoftUni_Java_OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP_02_Exercise_Working_With_Abstraction.P4TrafficLights.*" />
+          <option name="PATTERN" value="OOP_02_Exercise_Working_With_Abstraction.P3CardsWithPower.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +153,8 @@
       <workItem from="1640206209763" duration="14000" />
       <workItem from="1640206266341" duration="27663000" />
       <workItem from="1640361562106" duration="13654000" />
-      <workItem from="1640547921665" duration="1757000" />
+      <workItem from="1640547921665" duration="1950000" />
+      <workItem from="1640593988441" duration="2626000" />
     </task>
     <task id="LOCAL-00001" summary="d">
       <created>1640206288722</created>
@@ -289,7 +289,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640532927695</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Encapsulation">
+      <created>1640549848529</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1640549848529</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
