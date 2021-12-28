@@ -1,30 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0183d89a-8ed0-4381-ba72-fd673e3ec4d8" name="Changes" comment="Encapsulation">
-      <change afterPath="$PROJECT_DIR$/src/OOP_04_Exercise_Encapsulation/P4PizzaCaloriesNOTFINISH/Dough.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_04_Exercise_Encapsulation/P4PizzaCaloriesNOTFINISH/DoughModifiers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_04_Exercise_Encapsulation/P4PizzaCaloriesNOTFINISH/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_04_Exercise_Encapsulation/P4PizzaCaloriesNOTFINISH/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_04_Exercise_Encapsulation/P4PizzaCaloriesNOTFINISH/Topping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_04_Exercise_Encapsulation/P4PizzaCaloriesNOTFINISH/ToppingsModifiers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_04_Exercise_Encapsulation/P5FootballTeamGenerator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_04_Exercise_Encapsulation/P5FootballTeamGenerator/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_04_Exercise_Encapsulation/P5FootballTeamGenerator/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_05_Inheritance/P1SingleInheritance/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_05_Inheritance/P1SingleInheritance/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_05_Inheritance/P1SingleInheritance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_05_Inheritance/P2MultipleInheritance/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_05_Inheritance/P2MultipleInheritance/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_05_Inheritance/P2MultipleInheritance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_05_Inheritance/P2MultipleInheritance/Puppy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_05_Inheritance/P3HierarchicalInheritance/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_05_Inheritance/P3HierarchicalInheritance/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_05_Inheritance/P3HierarchicalInheritance/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_05_Inheritance/P3HierarchicalInheritance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_05_Inheritance/P4RandomArrayList/RandomArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_05_Inheritance/P4RandomArrayList/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0183d89a-8ed0-4381-ba72-fd673e3ec4d8" name="Changes" comment="Inheritance">
+      <change beforePath="$PROJECT_DIR$/src/OOP_05_Inheritance/P4RandomArrayList/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_05_Inheritance/P4RandomArrayList/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +50,7 @@
       <recent name="OOP_02_Exercise_Working_With_Abstraction.P4TrafficLights" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOP_05_Inheritance.P1SingleInheritance.Main" />
       <module name="SoftUni_Java_OOP" />
@@ -138,8 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP_05_Inheritance.P4RandomArrayList.main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP_05_Inheritance.P4RandomArrayList.Main" />
       <module name="SoftUni_Java_OOP" />
       <extension name="coverage">
         <pattern>
@@ -153,7 +131,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (1)" />
@@ -175,6 +153,7 @@
       <workItem from="1640361562106" duration="13654000" />
       <workItem from="1640547921665" duration="1950000" />
       <workItem from="1640593988441" duration="23410000" />
+      <workItem from="1640677312989" duration="688000" />
     </task>
     <task id="LOCAL-00001" summary="d">
       <created>1640206288722</created>
@@ -337,7 +316,21 @@
       <option name="project" value="LOCAL" />
       <updated>1640620959365</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Encapsulation">
+      <created>1640677395325</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1640677395325</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Inheritance">
+      <created>1640677420017</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1640677420017</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -360,7 +353,8 @@
     <MESSAGE value="Working With Abstraction" />
     <MESSAGE value="Exercise: Working With Abstraction" />
     <MESSAGE value="Encapsulation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Encapsulation" />
+    <MESSAGE value="Inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
