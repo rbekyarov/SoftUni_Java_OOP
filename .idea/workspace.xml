@@ -2,9 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0183d89a-8ed0-4381-ba72-fd673e3ec4d8" name="Changes" comment="Encapsulation">
-      <change afterPath="$PROJECT_DIR$/src/OOP_04_Exercise_Encapsulation/P3ShoppingSpree/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_04_Exercise_Encapsulation/P3ShoppingSpree/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_04_Exercise_Encapsulation/P3ShoppingSpree/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_04_Exercise_Encapsulation/P4PizzaCaloriesNOTFINISH/Dough.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_04_Exercise_Encapsulation/P4PizzaCaloriesNOTFINISH/DoughModifiers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_04_Exercise_Encapsulation/P4PizzaCaloriesNOTFINISH/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_04_Exercise_Encapsulation/P4PizzaCaloriesNOTFINISH/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_04_Exercise_Encapsulation/P4PizzaCaloriesNOTFINISH/Topping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_04_Exercise_Encapsulation/P4PizzaCaloriesNOTFINISH/ToppingsModifiers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_04_Exercise_Encapsulation/P5FootballTeamGenerator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_04_Exercise_Encapsulation/P5FootballTeamGenerator/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_04_Exercise_Encapsulation/P5FootballTeamGenerator/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_05_Inheritance/P1SingleInheritance/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_05_Inheritance/P1SingleInheritance/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_05_Inheritance/P1SingleInheritance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_05_Inheritance/P2MultipleInheritance/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_05_Inheritance/P2MultipleInheritance/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_05_Inheritance/P2MultipleInheritance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_05_Inheritance/P2MultipleInheritance/Puppy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_05_Inheritance/P3HierarchicalInheritance/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_05_Inheritance/P3HierarchicalInheritance/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_05_Inheritance/P3HierarchicalInheritance/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_05_Inheritance/P3HierarchicalInheritance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_05_Inheritance/P4RandomArrayList/RandomArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_05_Inheritance/P4RandomArrayList/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,13 +72,26 @@
       <recent name="OOP_02_Exercise_Working_With_Abstraction.P4TrafficLights" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (5)">
+  <component name="RunManager" selected="Application.main">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP_03_Encapsulation.P3ValidationData.Main" />
+      <option name="MAIN_CLASS_NAME" value="OOP_05_Inheritance.P1SingleInheritance.Main" />
       <module name="SoftUni_Java_OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP_03_Encapsulation.P3ValidationData.*" />
+          <option name="PATTERN" value="OOP_05_Inheritance.P1SingleInheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP_04_Exercise_Encapsulation.P5FootballTeamGenerator.Main" />
+      <module name="SoftUni_Java_OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP_04_Exercise_Encapsulation.P5FootballTeamGenerator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,11 +100,11 @@
       </method>
     </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP_03_Encapsulation.P4FirstAndReserveTeam.Main" />
+      <option name="MAIN_CLASS_NAME" value="OOP_05_Inheritance.P2MultipleInheritance.Main" />
       <module name="SoftUni_Java_OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP_03_Encapsulation.P4FirstAndReserveTeam.*" />
+          <option name="PATTERN" value="OOP_05_Inheritance.P2MultipleInheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,37 +113,11 @@
       </method>
     </configuration>
     <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP_04_Exercise_Encapsulation.P1ClassBox.Main" />
+      <option name="MAIN_CLASS_NAME" value="OOP_05_Inheritance.P3HierarchicalInheritance.Main" />
       <module name="SoftUni_Java_OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP_04_Exercise_Encapsulation.P1ClassBox.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP_04_Exercise_Encapsulation.P3ShoppingSpree.Main" />
-      <module name="SoftUni_Java_OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OOP_04_Exercise_Encapsulation.P3ShoppingSpree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP_04_Exercise_Encapsulation.P2AnimalFarm.Main" />
-      <module name="SoftUni_Java_OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OOP_04_Exercise_Encapsulation.P2AnimalFarm.*" />
+          <option name="PATTERN" value="OOP_05_Inheritance.P3HierarchicalInheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,13 +138,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP_05_Inheritance.P4RandomArrayList.main" />
+      <module name="SoftUni_Java_OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP_05_Inheritance.P4RandomArrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.main" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +174,7 @@
       <workItem from="1640206266341" duration="27663000" />
       <workItem from="1640361562106" duration="13654000" />
       <workItem from="1640547921665" duration="1950000" />
-      <workItem from="1640593988441" duration="10978000" />
+      <workItem from="1640593988441" duration="23410000" />
     </task>
     <task id="LOCAL-00001" summary="d">
       <created>1640206288722</created>
@@ -311,7 +330,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640602212349</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Encapsulation">
+      <created>1640620959365</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1640620959365</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
