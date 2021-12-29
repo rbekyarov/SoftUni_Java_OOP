@@ -2,27 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0183d89a-8ed0-4381-ba72-fd673e3ec4d8" name="Changes" comment="Inheritance">
-      <change afterPath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P1Person/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P1Person/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P1Person/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P2Zoo/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P2Zoo/Bear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P2Zoo/Gorilla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P2Zoo/Lizard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P2Zoo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P2Zoo/Mammal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P2Zoo/Reptile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P2Zoo/Snake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P3PlayersAndMonsters/BladeKnight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P3PlayersAndMonsters/DarkKnight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P3PlayersAndMonsters/DarkWizard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P3PlayersAndMonsters/Elf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P3PlayersAndMonsters/Hero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P3PlayersAndMonsters/Knight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P3PlayersAndMonsters/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P3PlayersAndMonsters/MuseElf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P3PlayersAndMonsters/SoulMaster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P3PlayersAndMonsters/Wizard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P4NeedForSpeed/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P4NeedForSpeed/CrossMotorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P4NeedForSpeed/FamilyCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P4NeedForSpeed/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P4NeedForSpeed/Motorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P4NeedForSpeed/RaceMotorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P4NeedForSpeed/SportCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P4NeedForSpeed/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -174,7 +161,7 @@
       <workItem from="1640361562106" duration="13654000" />
       <workItem from="1640547921665" duration="1950000" />
       <workItem from="1640593988441" duration="23410000" />
-      <workItem from="1640677312989" duration="7323000" />
+      <workItem from="1640677312989" duration="9706000" />
     </task>
     <task id="LOCAL-00001" summary="d">
       <created>1640206288722</created>
@@ -358,7 +345,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640678012956</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Inheritance">
+      <created>1640746714908</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1640746714908</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
