@@ -4,133 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0183d89a-8ed0-4381-ba72-fd673e3ec4d8" name="Changes" comment="Inheritance">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="0183d89a-8ed0-4381-ba72-fd673e3ec4d8" name="Changes" comment="add maven">
+      <change afterPath="$PROJECT_DIR$/src/test/java/OOP_17_Unit_Testing/rpg_lab/AxeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/OOP_17_Unit_Testing/rpg_lab/DummyTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_01_Working_With_Abstraction/01. Java-OOP-Working-with-Abstraction-Lab.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_01_Working_With_Abstraction/01. Java-OOP-Working-with-Abstraction-Lab.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_01_Working_With_Abstraction/01. Java-OOP-Working-with-Abstraction.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_01_Working_With_Abstraction/01. Java-OOP-Working-with-Abstraction.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_01_Working_With_Abstraction/P2PointInRectangle/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_01_Working_With_Abstraction/P2PointInRectangle/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_01_Working_With_Abstraction/P2PointInRectangle/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_01_Working_With_Abstraction/P2PointInRectangle/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_01_Working_With_Abstraction/P2PointInRectangle/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_01_Working_With_Abstraction/P2PointInRectangle/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_01_Working_With_Abstraction/P3StudentSystem/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_01_Working_With_Abstraction/P3StudentSystem/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_01_Working_With_Abstraction/P3StudentSystem/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_01_Working_With_Abstraction/P3StudentSystem/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_01_Working_With_Abstraction/P4HotelReservation/Discount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_01_Working_With_Abstraction/P4HotelReservation/Discount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_01_Working_With_Abstraction/P4HotelReservation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_01_Working_With_Abstraction/P4HotelReservation/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_01_Working_With_Abstraction/P4HotelReservation/PriceCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_01_Working_With_Abstraction/P4HotelReservation/PriceCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_01_Working_With_Abstraction/P4HotelReservation/Season.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_01_Working_With_Abstraction/P4HotelReservation/Season.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_01_Working_With_Abstraction/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_01_Working_With_Abstraction/img.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_01_Working_With_Abstraction/p1RhombusOfStars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_01_Working_With_Abstraction/p1RhombusOfStars.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_01_Working_With_Abstraction/p1RhombusOfStarsMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_01_Working_With_Abstraction/p1RhombusOfStarsMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_02_Exercise_Working_With_Abstraction/01. Java-OOP-Working-with-Abstraction-Exercises.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_02_Exercise_Working_With_Abstraction/01. Java-OOP-Working-with-Abstraction-Exercises.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_02_Exercise_Working_With_Abstraction/P1CardSuit/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_02_Exercise_Working_With_Abstraction/P1CardSuit/Card.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_02_Exercise_Working_With_Abstraction/P1CardSuit/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_02_Exercise_Working_With_Abstraction/P1CardSuit/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_02_Exercise_Working_With_Abstraction/P2CardRank/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_02_Exercise_Working_With_Abstraction/P2CardRank/Card.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_02_Exercise_Working_With_Abstraction/P2CardRank/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_02_Exercise_Working_With_Abstraction/P2CardRank/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_02_Exercise_Working_With_Abstraction/P3CardsWithPower/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_02_Exercise_Working_With_Abstraction/P3CardsWithPower/Card.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_02_Exercise_Working_With_Abstraction/P3CardsWithPower/CardRank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_02_Exercise_Working_With_Abstraction/P3CardsWithPower/CardRank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_02_Exercise_Working_With_Abstraction/P3CardsWithPower/CardSuit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_02_Exercise_Working_With_Abstraction/P3CardsWithPower/CardSuit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_02_Exercise_Working_With_Abstraction/P3CardsWithPower/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_02_Exercise_Working_With_Abstraction/P3CardsWithPower/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_02_Exercise_Working_With_Abstraction/P4TrafficLights/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_02_Exercise_Working_With_Abstraction/P4TrafficLights/Color.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_02_Exercise_Working_With_Abstraction/P4TrafficLights/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_02_Exercise_Working_With_Abstraction/P4TrafficLights/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_02_Exercise_Working_With_Abstraction/P4TrafficLights/TrafficLight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_02_Exercise_Working_With_Abstraction/P4TrafficLights/TrafficLight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_03_Encapsulation/02. Java-OOP-Encapsulation-Lab.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_03_Encapsulation/02. Java-OOP-Encapsulation-Lab.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_03_Encapsulation/02. Java-OOP-Encapsulation.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_03_Encapsulation/02. Java-OOP-Encapsulation.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_03_Encapsulation/P1SortByNameAndAge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_03_Encapsulation/P1SortByNameAndAge/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_03_Encapsulation/P1SortByNameAndAge/Person1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_03_Encapsulation/P1SortByNameAndAge/Person1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_03_Encapsulation/P2SalaryIncrease/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_03_Encapsulation/P2SalaryIncrease/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_03_Encapsulation/P2SalaryIncrease/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_03_Encapsulation/P2SalaryIncrease/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_03_Encapsulation/P3ValidationData/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_03_Encapsulation/P3ValidationData/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_03_Encapsulation/P3ValidationData/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_03_Encapsulation/P3ValidationData/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_03_Encapsulation/P4FirstAndReserveTeam/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_03_Encapsulation/P4FirstAndReserveTeam/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_03_Encapsulation/P4FirstAndReserveTeam/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_03_Encapsulation/P4FirstAndReserveTeam/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_03_Encapsulation/P4FirstAndReserveTeam/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_03_Encapsulation/P4FirstAndReserveTeam/Team.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_04_Exercise_Encapsulation/02. Java-OOP-Encapsulation-Exercises.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_04_Exercise_Encapsulation/02. Java-OOP-Encapsulation-Exercises.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_04_Exercise_Encapsulation/P1ClassBox/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_04_Exercise_Encapsulation/P1ClassBox/Box.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_04_Exercise_Encapsulation/P1ClassBox/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_04_Exercise_Encapsulation/P1ClassBox/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_04_Exercise_Encapsulation/P2AnimalFarm/Chicken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_04_Exercise_Encapsulation/P2AnimalFarm/Chicken.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_04_Exercise_Encapsulation/P2AnimalFarm/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_04_Exercise_Encapsulation/P2AnimalFarm/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_04_Exercise_Encapsulation/P3ShoppingSpree/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_04_Exercise_Encapsulation/P3ShoppingSpree/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_04_Exercise_Encapsulation/P3ShoppingSpree/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_04_Exercise_Encapsulation/P3ShoppingSpree/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_04_Exercise_Encapsulation/P3ShoppingSpree/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_04_Exercise_Encapsulation/P3ShoppingSpree/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_04_Exercise_Encapsulation/P4PizzaCaloriesNOTFINISH/Dough.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_04_Exercise_Encapsulation/P4PizzaCaloriesNOTFINISH/Dough.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_04_Exercise_Encapsulation/P4PizzaCaloriesNOTFINISH/DoughModifiers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_04_Exercise_Encapsulation/P4PizzaCaloriesNOTFINISH/DoughModifiers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_04_Exercise_Encapsulation/P4PizzaCaloriesNOTFINISH/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_04_Exercise_Encapsulation/P4PizzaCaloriesNOTFINISH/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_04_Exercise_Encapsulation/P4PizzaCaloriesNOTFINISH/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_04_Exercise_Encapsulation/P4PizzaCaloriesNOTFINISH/Pizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_04_Exercise_Encapsulation/P4PizzaCaloriesNOTFINISH/Topping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_04_Exercise_Encapsulation/P4PizzaCaloriesNOTFINISH/Topping.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_04_Exercise_Encapsulation/P4PizzaCaloriesNOTFINISH/ToppingsModifiers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_04_Exercise_Encapsulation/P4PizzaCaloriesNOTFINISH/ToppingsModifiers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_04_Exercise_Encapsulation/P5FootballTeamGenerator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_04_Exercise_Encapsulation/P5FootballTeamGenerator/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_04_Exercise_Encapsulation/P5FootballTeamGenerator/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_04_Exercise_Encapsulation/P5FootballTeamGenerator/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_04_Exercise_Encapsulation/P5FootballTeamGenerator/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_04_Exercise_Encapsulation/P5FootballTeamGenerator/Team.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_05_Inheritance/03. Java-OOP-Inheritance-Lab.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_05_Inheritance/03. Java-OOP-Inheritance-Lab.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_05_Inheritance/03. Java-OOP-Inheritance.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_05_Inheritance/03. Java-OOP-Inheritance.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_05_Inheritance/P1SingleInheritance/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_05_Inheritance/P1SingleInheritance/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_05_Inheritance/P1SingleInheritance/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_05_Inheritance/P1SingleInheritance/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_05_Inheritance/P1SingleInheritance/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_05_Inheritance/P1SingleInheritance/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_05_Inheritance/P2MultipleInheritance/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_05_Inheritance/P2MultipleInheritance/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_05_Inheritance/P2MultipleInheritance/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_05_Inheritance/P2MultipleInheritance/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_05_Inheritance/P2MultipleInheritance/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_05_Inheritance/P2MultipleInheritance/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_05_Inheritance/P2MultipleInheritance/Puppy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_05_Inheritance/P2MultipleInheritance/Puppy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_05_Inheritance/P3HierarchicalInheritance/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_05_Inheritance/P3HierarchicalInheritance/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_05_Inheritance/P3HierarchicalInheritance/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_05_Inheritance/P3HierarchicalInheritance/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_05_Inheritance/P3HierarchicalInheritance/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_05_Inheritance/P3HierarchicalInheritance/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_05_Inheritance/P3HierarchicalInheritance/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_05_Inheritance/P3HierarchicalInheritance/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_05_Inheritance/P4RandomArrayList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_05_Inheritance/P4RandomArrayList/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_05_Inheritance/P4RandomArrayList/RandomArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_05_Inheritance/P4RandomArrayList/RandomArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/03. Java-OOP-Inheritance-Exercises.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_06_Exercise_Inheritance/03. Java-OOP-Inheritance-Exercises.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P1Person/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_06_Exercise_Inheritance/P1Person/Child.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P1Person/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_06_Exercise_Inheritance/P1Person/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P1Person/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_06_Exercise_Inheritance/P1Person/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P2Zoo/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_06_Exercise_Inheritance/P2Zoo/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P2Zoo/Bear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_06_Exercise_Inheritance/P2Zoo/Bear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P2Zoo/Gorilla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_06_Exercise_Inheritance/P2Zoo/Gorilla.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P2Zoo/Lizard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_06_Exercise_Inheritance/P2Zoo/Lizard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P2Zoo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_06_Exercise_Inheritance/P2Zoo/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P2Zoo/Mammal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_06_Exercise_Inheritance/P2Zoo/Mammal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P2Zoo/Reptile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_06_Exercise_Inheritance/P2Zoo/Reptile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P2Zoo/Snake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_06_Exercise_Inheritance/P2Zoo/Snake.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P3PlayersAndMonsters/BladeKnight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_06_Exercise_Inheritance/P3PlayersAndMonsters/BladeKnight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P3PlayersAndMonsters/DarkKnight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_06_Exercise_Inheritance/P3PlayersAndMonsters/DarkKnight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P3PlayersAndMonsters/DarkWizard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_06_Exercise_Inheritance/P3PlayersAndMonsters/DarkWizard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P3PlayersAndMonsters/Elf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_06_Exercise_Inheritance/P3PlayersAndMonsters/Elf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P3PlayersAndMonsters/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_06_Exercise_Inheritance/P3PlayersAndMonsters/Hero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P3PlayersAndMonsters/Knight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_06_Exercise_Inheritance/P3PlayersAndMonsters/Knight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P3PlayersAndMonsters/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_06_Exercise_Inheritance/P3PlayersAndMonsters/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P3PlayersAndMonsters/MuseElf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_06_Exercise_Inheritance/P3PlayersAndMonsters/MuseElf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P3PlayersAndMonsters/SoulMaster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_06_Exercise_Inheritance/P3PlayersAndMonsters/SoulMaster.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P3PlayersAndMonsters/Wizard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_06_Exercise_Inheritance/P3PlayersAndMonsters/Wizard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P4NeedForSpeed/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_06_Exercise_Inheritance/P4NeedForSpeed/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P4NeedForSpeed/CrossMotorcycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_06_Exercise_Inheritance/P4NeedForSpeed/CrossMotorcycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P4NeedForSpeed/FamilyCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_06_Exercise_Inheritance/P4NeedForSpeed/FamilyCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P4NeedForSpeed/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_06_Exercise_Inheritance/P4NeedForSpeed/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P4NeedForSpeed/Motorcycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_06_Exercise_Inheritance/P4NeedForSpeed/Motorcycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P4NeedForSpeed/RaceMotorcycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_06_Exercise_Inheritance/P4NeedForSpeed/RaceMotorcycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P4NeedForSpeed/SportCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_06_Exercise_Inheritance/P4NeedForSpeed/SportCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_06_Exercise_Inheritance/P4NeedForSpeed/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_06_Exercise_Inheritance/P4NeedForSpeed/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_07_Interfaces_and_Abstraction/04. Java-OOP-Interfaces-and-Abstraction-Lab.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_07_Interfaces_and_Abstraction/04. Java-OOP-Interfaces-and-Abstraction-Lab.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_07_Interfaces_and_Abstraction/04. Java-OOP-Interfaces-and-Abstraction.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_07_Interfaces_and_Abstraction/04. Java-OOP-Interfaces-and-Abstraction.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_08_Exercise_Interfaces_and_Abstraction/04. Java-OOP-Interfaces-and-Abstraction-Exercises.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_08_Exercise_Interfaces_and_Abstraction/04. Java-OOP-Interfaces-and-Abstraction-Exercises.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_09_Polymorphism/05. Java-OOP-Polymorphism-Lab.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_09_Polymorphism/05. Java-OOP-Polymorphism-Lab.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_09_Polymorphism/05. Java-OOP-Polymorphism.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_09_Polymorphism/05. Java-OOP-Polymorphism.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_10_Exercise_Polymorphism/05. Java-OOP-Polymorphism-Exercises.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_10_Exercise_Polymorphism/05. Java-OOP-Polymorphism-Exercises.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_11_SOLID/06. Java-OOP-SOLID.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_11_SOLID/06. Java-OOP-SOLID.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_12_Exercise_SOLID/06. Java-OOP-SOLID-Exercises.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_12_Exercise_SOLID/06. Java-OOP-SOLID-Exercises.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_13_Reflection_and_Annotation/07. Java-OOP-Reflection-and-Annotations-Lab.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_13_Reflection_and_Annotation/07. Java-OOP-Reflection-and-Annotations-Lab.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_13_Reflection_and_Annotation/07. Java-OOP-Reflection-and-Annotations.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_13_Reflection_and_Annotation/07. Java-OOP-Reflection-and-Annotations.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_14_Exercise_Reflection_and_Annotation/07. Java-OOP-Reflection-and-Annotations-Exercises.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_14_Exercise_Reflection_and_Annotation/07. Java-OOP-Reflection-and-Annotations-Exercises.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_15_Exceptions_and_Error_Handling/08. Java-OOP-Exceptions-and-Error-Handling-Lab.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_15_Exceptions_and_Error_Handling/08. Java-OOP-Exceptions-and-Error-Handling-Lab.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_15_Exceptions_and_Error_Handling/08. Java-OOP-Exceptions-and-Error-Handling.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_15_Exceptions_and_Error_Handling/08. Java-OOP-Exceptions-and-Error-Handling.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_16_Debugging_Techniques/09. Java-OOP-Debugging-Techniques.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_16_Debugging_Techniques/09. Java-OOP-Debugging-Techniques.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_17_Unit_Testing/11. Java-OOP-Unit-Testing-Lab.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_17_Unit_Testing/11. Java-OOP-Unit-Testing-Lab.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_17_Unit_Testing/11. Java-OOP-Unit-Testing.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_17_Unit_Testing/11. Java-OOP-Unit-Testing.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_18_Exersice_Unit_Testing/11. Java-OOP-Unit-Testing-Exercises.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_18_Exersice_Unit_Testing/11. Java-OOP-Unit-Testing-Exercises.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_19_Test_Driven_Development/12. Java-OOP-Test-Driven-Development-Lab.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_19_Test_Driven_Development/12. Java-OOP-Test-Driven-Development-Lab.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_19_Test_Driven_Development/12. Java-OOP-Test-Driven-Development.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_19_Test_Driven_Development/12. Java-OOP-Test-Driven-Development.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_20_Exercise_Test_Driven_Development/12. Java-OOP-Test-Driven-Development-Exercise.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_20_Exercise_Test_Driven_Development/12. Java-OOP-Test-Driven-Development-Exercise.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_21_Design_Patterns/13. Java-OOP-Design-Patterns-Lab.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_21_Design_Patterns/13. Java-OOP-Design-Patterns-Lab.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_21_Design_Patterns/13. Java-OOP-Design-Patterns.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_21_Design_Patterns/13. Java-OOP-Design-Patterns.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_22_Exercise_Design_Patterns/13. Java-OOP-Design-Patterns-Exercises.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_22_Exercise_Design_Patterns/13. Java-OOP-Design-Patterns-Exercises.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_23_Exam_Preparation/01. High Quality Structure_Условие-15-Aug-21.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_23_Exam_Preparation/01. High Quality Structure_Условие-15-Aug-21.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -168,102 +46,118 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rbekyarov\IdeaProjects\SoftUni_Java_OOP\src\main\java\OOP_11_SOLID" />
+      <recent name="C:\Users\rbekyarov\IdeaProjects\SoftUni_Java_OOP" />
+      <recent name="C:\Users\rbekyarov\IdeaProjects\SoftUni_Java_OOP\src\main\java\OOP_17_Unit_Testing" />
+      <recent name="C:\Users\rbekyarov\IdeaProjects\SoftUni_Java_OOP\src\main\java" />
       <recent name="C:\Users\rbekyarov\IdeaProjects\oop\src" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="OOP_02_Exercise_Working_With_Abstraction.P4TrafficLights" />
     </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="OOP_17_Unit_Testing.rpg_lab" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.p1RhombusOfStars">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP_06_Exercise_Inheritance.P3PlayersAndMonsters.Main" />
+  <component name="RunManager" selected="JUnit.DummyTest">
+    <configuration name="AxeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SoftUni_Java_OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP_06_Exercise_Inheritance.P3PlayersAndMonsters.*" />
+          <option name="PATTERN" value="OOP_17_Unit_Testing.rpg_lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="OOP_17_Unit_Testing.rpg_lab" />
+      <option name="MAIN_CLASS_NAME" value="OOP_17_Unit_Testing.rpg_lab.AxeTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP_05_Inheritance.P3HierarchicalInheritance.Main" />
+    <configuration name="DummyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SoftUni_Java_OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP_05_Inheritance.P3HierarchicalInheritance.*" />
+          <option name="PATTERN" value="OOP_17_Unit_Testing.rpg_lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="OOP_17_Unit_Testing.rpg_lab" />
+      <option name="MAIN_CLASS_NAME" value="OOP_17_Unit_Testing.rpg_lab.DummyTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP_06_Exercise_Inheritance.P1Person.Main" />
+    <configuration name="DummyTest.testDummyDead" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SoftUni_Java_OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP_06_Exercise_Inheritance.P1Person.*" />
+          <option name="PATTERN" value="OOP_17_Unit_Testing.rpg_lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="OOP_17_Unit_Testing.rpg_lab" />
+      <option name="MAIN_CLASS_NAME" value="OOP_17_Unit_Testing.rpg_lab.DummyTest" />
+      <option name="METHOD_NAME" value="testDummyDead" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP_03_Encapsulation.P1SortByNameAndAge.Main" />
+    <configuration name="DummyTest.testDummyHealtAfterAttack" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SoftUni_Java_OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP_03_Encapsulation.P1SortByNameAndAge.*" />
+          <option name="PATTERN" value="OOP_17_Unit_Testing.rpg_lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="OOP_17_Unit_Testing.rpg_lab" />
+      <option name="MAIN_CLASS_NAME" value="OOP_17_Unit_Testing.rpg_lab.DummyTest" />
+      <option name="METHOD_NAME" value="testDummyHealtAfterAttack" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP_05_Inheritance.P4RandomArrayList.Main" />
+    <configuration name="DummyTest.testDummyHealthAfterAttack" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SoftUni_Java_OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP_05_Inheritance.P4RandomArrayList.*" />
+          <option name="PATTERN" value="OOP_17_Unit_Testing.rpg_lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="p1RhombusOfStars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP_01_Working_With_Abstraction.p1RhombusOfStars" />
-      <module name="SoftUni_Java_OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OOP_01_Working_With_Abstraction.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="OOP_17_Unit_Testing.rpg_lab" />
+      <option name="MAIN_CLASS_NAME" value="OOP_17_Unit_Testing.rpg_lab.DummyTest" />
+      <option name="METHOD_NAME" value="testDummyHealthAfterAttack" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.p1RhombusOfStars" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="JUnit.DummyTest" />
+        <item itemvalue="JUnit.DummyTest.testDummyDead" />
+        <item itemvalue="JUnit.DummyTest.testDummyHealthAfterAttack" />
+        <item itemvalue="JUnit.DummyTest.testDummyHealtAfterAttack" />
+        <item itemvalue="JUnit.AxeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -283,7 +177,8 @@
       <workItem from="1640593988441" duration="23410000" />
       <workItem from="1640677312989" duration="13749000" />
       <workItem from="1640881963996" duration="104000" />
-      <workItem from="1640882080340" duration="314000" />
+      <workItem from="1640882080340" duration="923000" />
+      <workItem from="1640883035430" duration="6636000" />
     </task>
     <task id="LOCAL-00001" summary="d">
       <created>1640206288722</created>
@@ -481,7 +376,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640749360311</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="add maven">
+      <created>1640882712023</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1640882712023</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -505,7 +407,8 @@
     <MESSAGE value="Exercise: Working With Abstraction" />
     <MESSAGE value="Encapsulation" />
     <MESSAGE value="Inheritance" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inheritance" />
+    <MESSAGE value="add maven" />
+    <option name="LAST_COMMIT_MESSAGE" value="add maven" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
