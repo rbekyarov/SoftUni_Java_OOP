@@ -7,11 +7,11 @@ public class p1RhombusOfStarsMethods {
 
         Scanner scanner = new Scanner(System.in);
 
-        int n = Integer.parseInt(scanner.nextLine());
+        int size = Integer.parseInt(scanner.nextLine());
 
-        printTop(n);
-        printMiddle(n);
-        printBottom(n);
+        printTop(size);
+        printMiddle(size);
+        printBottom(size);
     }
 
     private static void printMiddle(int n) {
