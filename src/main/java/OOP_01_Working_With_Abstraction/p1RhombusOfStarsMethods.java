@@ -8,22 +8,29 @@ public class p1RhombusOfStarsMethods {
         Scanner scanner = new Scanner(System.in);
 
         int n = Integer.parseInt(scanner.nextLine());
-        //print top
-        for (int row = 0; row < n; row++) {
-            printSpace(n, row);
-            printStar(row);
-            printLine();
-        }
 
-        //print middle
+        printTop(n);
+        printMiddle(n);
+        printBottom(n);
+    }
+
+    private static void printMiddle(int n) {
         printStar(n);
         printLine();
+    }
 
-        //print bottom
+    private static void printBottom(int n) {
         for (int row = 1; row <= n; row++) {
             forLoop(row, " ");
             forLoop(n - row, "* ");
             printLine();
+        }
+    }
+
+    private static void printTop(int n) {
+        for (int row = 0; row < n; row++) {
+            printSpace(n, row);
+            printMiddle(row);
         }
     }
 

@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0183d89a-8ed0-4381-ba72-fd673e3ec4d8" name="Changes" comment="add maven">
-      <change afterPath="$PROJECT_DIR$/src/test/java/OOP_17_Unit_Testing/rpg_lab/AxeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/OOP_17_Unit_Testing/rpg_lab/DummyTest.java" afterDir="false" />
+    <list default="true" id="0183d89a-8ed0-4381-ba72-fd673e3ec4d8" name="Changes" comment="Unit test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OOP_01_Working_With_Abstraction/p1RhombusOfStarsMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_01_Working_With_Abstraction/p1RhombusOfStarsMethods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,6 +178,10 @@
       <workItem from="1640881963996" duration="104000" />
       <workItem from="1640882080340" duration="923000" />
       <workItem from="1640883035430" duration="6636000" />
+      <workItem from="1640928713230" duration="718000" />
+      <workItem from="1640945991382" duration="147000" />
+      <workItem from="1645380865002" duration="693000" />
+      <workItem from="1645463321585" duration="1105000" />
     </task>
     <task id="LOCAL-00001" summary="d">
       <created>1640206288722</created>
@@ -383,7 +386,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640882712023</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Unit test">
+      <created>1640928751278</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1640928751278</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -408,7 +418,8 @@
     <MESSAGE value="Encapsulation" />
     <MESSAGE value="Inheritance" />
     <MESSAGE value="add maven" />
-    <option name="LAST_COMMIT_MESSAGE" value="add maven" />
+    <MESSAGE value="Unit test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Unit test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
