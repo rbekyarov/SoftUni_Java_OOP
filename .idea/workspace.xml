@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0183d89a-8ed0-4381-ba72-fd673e3ec4d8" name="Changes" comment="Unit test">
+    <list default="true" id="0183d89a-8ed0-4381-ba72-fd673e3ec4d8" name="Changes" comment="Abstraction">
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_02_Exercise_Working_With_Abstraction/RE/CardRank/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_02_Exercise_Working_With_Abstraction/RE/CardRank/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_02_Exercise_Working_With_Abstraction/RE/CardSuit/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_02_Exercise_Working_With_Abstraction/RE/CardSuit/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OOP_01_Working_With_Abstraction/p1RhombusOfStarsMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_01_Working_With_Abstraction/p1RhombusOfStarsMethods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -71,18 +74,29 @@
       <recent name="OOP_17_Unit_Testing.rpg_lab" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.DummyTest">
-    <configuration name="AxeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP_02_Exercise_Working_With_Abstraction.RE.CardRank.Main" />
       <module name="SoftUni_Java_OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP_17_Unit_Testing.rpg_lab.*" />
+          <option name="PATTERN" value="OOP_02_Exercise_Working_With_Abstraction.RE.CardRank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="OOP_17_Unit_Testing.rpg_lab" />
-      <option name="MAIN_CLASS_NAME" value="OOP_17_Unit_Testing.rpg_lab.AxeTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP_02_Exercise_Working_With_Abstraction.RE.CardSuit.Main" />
+      <module name="SoftUni_Java_OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP_02_Exercise_Working_With_Abstraction.RE.CardSuit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -118,22 +132,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DummyTest.testDummyHealtAfterAttack" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SoftUni_Java_OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OOP_17_Unit_Testing.rpg_lab.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="OOP_17_Unit_Testing.rpg_lab" />
-      <option name="MAIN_CLASS_NAME" value="OOP_17_Unit_Testing.rpg_lab.DummyTest" />
-      <option name="METHOD_NAME" value="testDummyHealtAfterAttack" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="DummyTest.testDummyHealthAfterAttack" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SoftUni_Java_OOP" />
       <extension name="coverage">
@@ -152,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.DummyTest" />
         <item itemvalue="JUnit.DummyTest.testDummyDead" />
         <item itemvalue="JUnit.DummyTest.testDummyHealthAfterAttack" />
-        <item itemvalue="JUnit.DummyTest.testDummyHealtAfterAttack" />
-        <item itemvalue="JUnit.AxeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +179,8 @@
       <workItem from="1640928713230" duration="718000" />
       <workItem from="1640945991382" duration="147000" />
       <workItem from="1645380865002" duration="693000" />
-      <workItem from="1645463321585" duration="1105000" />
+      <workItem from="1645463321585" duration="4664000" />
+      <workItem from="1646121849084" duration="830000" />
     </task>
     <task id="LOCAL-00001" summary="d">
       <created>1640206288722</created>
@@ -393,7 +392,21 @@
       <option name="project" value="LOCAL" />
       <updated>1640928751278</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Abstraction">
+      <created>1645465077844</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1645465077844</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Abstraction">
+      <created>1645465135436</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1645465135436</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -419,7 +432,8 @@
     <MESSAGE value="Inheritance" />
     <MESSAGE value="add maven" />
     <MESSAGE value="Unit test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Unit test" />
+    <MESSAGE value="Abstraction" />
+    <option name="LAST_COMMIT_MESSAGE" value="Abstraction" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
