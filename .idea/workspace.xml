@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0183d89a-8ed0-4381-ba72-fd673e3ec4d8" name="Changes" comment="Interfaces_and_Abstraction">
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_07_Interfaces_and_Abstraction/SayHello/Bulgarian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_07_Interfaces_and_Abstraction/SayHello/Chinese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_07_Interfaces_and_Abstraction/SayHello/European.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_07_Interfaces_and_Abstraction/SayHello/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_07_Interfaces_and_Abstraction/SayHello/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_07_Interfaces_and_Abstraction/SayHelloExtended/BasePerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_07_Interfaces_and_Abstraction/SayHelloExtended/Bulgarian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_07_Interfaces_and_Abstraction/SayHelloExtended/Chinese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_07_Interfaces_and_Abstraction/SayHelloExtended/European.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_07_Interfaces_and_Abstraction/SayHelloExtended/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_07_Interfaces_and_Abstraction/SayHelloExtended/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +54,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/OOP_07_Interfaces_and_Abstraction/CarShopExtend" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/OOP_07_Interfaces_and_Abstraction/SayHelloExtended" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -60,6 +62,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rbekyarov\IdeaProjects\SoftUni_Java_OOP\src\main\java\OOP_07_Interfaces_and_Abstraction\SayHelloExtended" />
       <recent name="C:\Users\rbekyarov\IdeaProjects\SoftUni_Java_OOP\src\main\java\OOP_07_Interfaces_and_Abstraction\CarShopExtend" />
       <recent name="C:\Users\rbekyarov\IdeaProjects\SoftUni_Java_OOP\src\main\java" />
     </key>
@@ -80,20 +83,7 @@
       <recent name="OOP_17_Unit_Testing.rpg_lab" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (5)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP_02_Exercise_Working_With_Abstraction.RE.CardRank.Main" />
-      <module name="SoftUni_Java_OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OOP_02_Exercise_Working_With_Abstraction.RE.CardRank.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOP_02_Exercise_Working_With_Abstraction.RE.CardsWithPower.Main" />
       <module name="SoftUni_Java_OOP" />
@@ -146,13 +136,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP_07_Interfaces_and_Abstraction.SayHelloExtended.Main" />
+      <module name="SoftUni_Java_OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP_07_Interfaces_and_Abstraction.SayHelloExtended.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +182,7 @@
       <workItem from="1645380865002" duration="693000" />
       <workItem from="1645463321585" duration="4664000" />
       <workItem from="1646121849084" duration="2551000" />
-      <workItem from="1646220094116" duration="8451000" />
+      <workItem from="1646220094116" duration="9538000" />
     </task>
     <task id="LOCAL-00001" summary="d">
       <created>1640206288722</created>
@@ -440,7 +443,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646470045881</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Interfaces_and_Abstraction">
+      <created>1646470670042</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1646470670042</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
