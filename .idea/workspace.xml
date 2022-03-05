@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0183d89a-8ed0-4381-ba72-fd673e3ec4d8" name="Changes" comment="Interfaces_and_Abstraction">
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_08_Exercise_Interfaces_and_Abstraction/Telephony/Browsable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_08_Exercise_Interfaces_and_Abstraction/Telephony/Callable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_08_Exercise_Interfaces_and_Abstraction/Telephony/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_08_Exercise_Interfaces_and_Abstraction/Telephony/Smartphone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0183d89a-8ed0-4381-ba72-fd673e3ec4d8" name="Changes" comment="Interfaces_and_Abstraction" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,11 +59,11 @@
       <recent name="C:\Users\rbekyarov\IdeaProjects\SoftUni_Java_OOP\src\main\java" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rbekyarov\IdeaProjects\SoftUni_Java_OOP\src\main\java\OOP_06_Exercise_Inheritance\Restaurant" />
+      <recent name="C:\Users\rbekyarov\IdeaProjects\SoftUni_Java_OOP\src" />
       <recent name="C:\Users\rbekyarov\IdeaProjects\SoftUni_Java_OOP\src\main\java\OOP_11_SOLID" />
       <recent name="C:\Users\rbekyarov\IdeaProjects\SoftUni_Java_OOP" />
       <recent name="C:\Users\rbekyarov\IdeaProjects\SoftUni_Java_OOP\src\main\java\OOP_17_Unit_Testing" />
-      <recent name="C:\Users\rbekyarov\IdeaProjects\SoftUni_Java_OOP\src\main\java" />
-      <recent name="C:\Users\rbekyarov\IdeaProjects\oop\src" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -180,7 +174,7 @@
       <workItem from="1645380865002" duration="693000" />
       <workItem from="1645463321585" duration="4664000" />
       <workItem from="1646121849084" duration="2551000" />
-      <workItem from="1646220094116" duration="21381000" />
+      <workItem from="1646220094116" duration="21821000" />
     </task>
     <task id="LOCAL-00001" summary="d">
       <created>1640206288722</created>
@@ -490,7 +484,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646493648261</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Interfaces_and_Abstraction">
+      <created>1646503461320</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1646503461320</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
