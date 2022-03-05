@@ -1,7 +1,5 @@
 package OOP_08_Exercise_Interfaces_and_Abstraction.BirthdayCelebrations;
 
-import OOP_08_Exercise_Interfaces_and_Abstraction.MultipleImplementation.Identifiable;
-
 public class Citizen implements Identifiable {
     private String name;
     private int age;
@@ -25,6 +23,6 @@ public class Citizen implements Identifiable {
 
     @Override
     public String getId() {
-        return null;
+        return id;
     }
 }

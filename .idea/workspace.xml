@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0183d89a-8ed0-4381-ba72-fd673e3ec4d8" name="Changes" comment="Interfaces_and_Abstraction">
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_08_Exercise_Interfaces_and_Abstraction/BirthdayCelebrations/Birthable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_08_Exercise_Interfaces_and_Abstraction/BirthdayCelebrations/Citizen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_08_Exercise_Interfaces_and_Abstraction/BirthdayCelebrations/Identifiable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_08_Exercise_Interfaces_and_Abstraction/BirthdayCelebrations/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_08_Exercise_Interfaces_and_Abstraction/BirthdayCelebrations/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_08_Exercise_Interfaces_and_Abstraction/BirthdayCelebrations/Robot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_08_Exercise_Interfaces_and_Abstraction/DefineAnInterfacePerson/Citizen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_08_Exercise_Interfaces_and_Abstraction/DefineAnInterfacePerson/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_08_Exercise_Interfaces_and_Abstraction/DefineAnInterfacePerson/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_08_Exercise_Interfaces_and_Abstraction/MultipleImplementation/Birthable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_08_Exercise_Interfaces_and_Abstraction/MultipleImplementation/Citizen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_08_Exercise_Interfaces_and_Abstraction/MultipleImplementation/Identifiable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_08_Exercise_Interfaces_and_Abstraction/MultipleImplementation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_08_Exercise_Interfaces_and_Abstraction/MultipleImplementation/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OOP_08_Exercise_Interfaces_and_Abstraction/BirthdayCelebrations/Citizen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_08_Exercise_Interfaces_and_Abstraction/BirthdayCelebrations/Citizen.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +78,7 @@
       <recent name="OOP_17_Unit_Testing.rpg_lab" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOP_07_Interfaces_and_Abstraction.BorderControl.Main" />
       <module name="SoftUni_Java_OOP" />
@@ -131,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP_07_Interfaces_and_Abstraction.SayHello.Main" />
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP_08_Exercise_Interfaces_and_Abstraction.BirthdayCelebrations.Main" />
       <module name="SoftUni_Java_OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP_07_Interfaces_and_Abstraction.SayHello.*" />
+          <option name="PATTERN" value="OOP_08_Exercise_Interfaces_and_Abstraction.BirthdayCelebrations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +177,7 @@
       <workItem from="1645380865002" duration="693000" />
       <workItem from="1645463321585" duration="4664000" />
       <workItem from="1646121849084" duration="2551000" />
-      <workItem from="1646220094116" duration="15642000" />
+      <workItem from="1646220094116" duration="17141000" />
     </task>
     <task id="LOCAL-00001" summary="d">
       <created>1640206288722</created>
@@ -472,7 +459,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646480956654</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Interfaces_and_Abstraction">
+      <created>1646489934116</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1646489934116</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
