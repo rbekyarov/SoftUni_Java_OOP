@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0183d89a-8ed0-4381-ba72-fd673e3ec4d8" name="Changes" comment="Interfaces_and_Abstraction">
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_08_Exercise_Interfaces_and_Abstraction/FoodShortage/Buyer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_08_Exercise_Interfaces_and_Abstraction/FoodShortage/Citizen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_08_Exercise_Interfaces_and_Abstraction/FoodShortage/Identifiable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_08_Exercise_Interfaces_and_Abstraction/FoodShortage/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_08_Exercise_Interfaces_and_Abstraction/FoodShortage/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_08_Exercise_Interfaces_and_Abstraction/FoodShortage/Rebel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_08_Exercise_Interfaces_and_Abstraction/Telephony/Browsable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_08_Exercise_Interfaces_and_Abstraction/Telephony/Callable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_08_Exercise_Interfaces_and_Abstraction/Telephony/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_08_Exercise_Interfaces_and_Abstraction/Telephony/Smartphone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +81,7 @@
       <recent name="OOP_17_Unit_Testing.rpg_lab" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
+  <component name="RunManager" selected="Application.Main (5)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOP_07_Interfaces_and_Abstraction.BorderControl.Main" />
       <module name="SoftUni_Java_OOP" />
@@ -136,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP_07_Interfaces_and_Abstraction.SayHelloExtended.Main" />
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP_06_Exercise_Inheritance.P1Person.Main" />
       <module name="SoftUni_Java_OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP_07_Interfaces_and_Abstraction.SayHelloExtended.*" />
+          <option name="PATTERN" value="OOP_06_Exercise_Inheritance.P1Person.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +180,7 @@
       <workItem from="1645380865002" duration="693000" />
       <workItem from="1645463321585" duration="4664000" />
       <workItem from="1646121849084" duration="2551000" />
-      <workItem from="1646220094116" duration="19321000" />
+      <workItem from="1646220094116" duration="21381000" />
     </task>
     <task id="LOCAL-00001" summary="d">
       <created>1640206288722</created>
@@ -485,7 +483,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646492034846</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Interfaces_and_Abstraction">
+      <created>1646493648261</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1646493648261</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
