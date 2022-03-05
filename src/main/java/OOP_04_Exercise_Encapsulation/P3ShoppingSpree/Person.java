@@ -1,3 +1,5 @@
+package OOP_04_Exercise_Encapsulation.P3ShoppingSpree;
+
 import java.util.ArrayList;
 import java.util.List;
 

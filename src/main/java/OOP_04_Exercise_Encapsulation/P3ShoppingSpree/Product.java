@@ -1,3 +1,5 @@
+package OOP_04_Exercise_Encapsulation.P3ShoppingSpree;
+
 public class Product {
     private String name;
     private double cost;
