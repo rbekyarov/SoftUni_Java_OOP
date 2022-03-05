@@ -1,6 +1,8 @@
 package OOP_07_Interfaces_and_Abstraction.CarShop;
 
-public class Seat implements Car {
+import java.io.Serializable;
+
+public class Seat implements Car, Serializable {
     private final String model;
     private final String color;
     private final Integer horsePower;
