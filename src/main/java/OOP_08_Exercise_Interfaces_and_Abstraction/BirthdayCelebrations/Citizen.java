@@ -13,6 +13,10 @@ public class Citizen implements Identifiable {
         this.birthDate = birthDate;
     }
 
+    public String getBirthDate() {
+        return birthDate;
+    }
+
     public String getName() {
         return name;
     }
