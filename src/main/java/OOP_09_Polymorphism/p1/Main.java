@@ -8,7 +8,9 @@ public class Main {
         MathOperation math = new MathOperation();
         math.add(2,3);
         math.add(2,3,4);
-        math.add(2,3,4,5);
+        MathOperation.add(2,3,4,5);
+
+
 
     }
 }
