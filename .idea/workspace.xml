@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0183d89a-8ed0-4381-ba72-fd673e3ec4d8" name="Changes" comment="Polymorphism">
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_09_Polymorphism/p3/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_09_Polymorphism/p3/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_09_Polymorphism/p3/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_09_Polymorphism/p3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_10_Exercise_Polymorphism/p1/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_10_Exercise_Polymorphism/p1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_10_Exercise_Polymorphism/p1/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_10_Exercise_Polymorphism/p1/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +81,7 @@
       <recent name="OOP_17_Unit_Testing.rpg_lab" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOP_09_Polymorphism.p2.Main" />
       <module name="SoftUni_Java_OOP" />
@@ -108,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP_08_Exercise_Interfaces_and_Abstraction.BirthdayCelebrations.Main" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP_10_Exercise_Polymorphism.p1.Main" />
       <module name="SoftUni_Java_OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP_08_Exercise_Interfaces_and_Abstraction.BirthdayCelebrations.*" />
+          <option name="PATTERN" value="OOP_10_Exercise_Polymorphism.p1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -180,14 +180,7 @@
       <workItem from="1645380865002" duration="693000" />
       <workItem from="1645463321585" duration="4664000" />
       <workItem from="1646121849084" duration="2551000" />
-      <workItem from="1646220094116" duration="29282000" />
-    </task>
-    <task id="LOCAL-00003" summary="Working With Abstraction">
-      <created>1640208052481</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1640208052481</updated>
+      <workItem from="1646220094116" duration="40352000" />
     </task>
     <task id="LOCAL-00004" summary="Working With Abstraction">
       <created>1640208444894</created>
@@ -525,7 +518,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646743877039</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Polymorphism">
+      <created>1646745552162</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1646745552162</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -588,6 +588,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/OOP_07_Interfaces_and_Abstraction/BorderControl/Main.java</url>
           <line>9</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/OOP_10_Exercise_Polymorphism/p1/Main.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
