@@ -11,7 +11,7 @@ public class Truck extends Vehicle{
     @Override
     public String drive(double distance) {
         DecimalFormat decimal = new DecimalFormat("##.##");
-        if ((this.getFuelConsumption()+fuelConsumptionClimatic) * distance < this.getFuelQuantity()) {
+        if ((this.getFuelConsumption()+fuelConsumptionClimatic) * distance <= this.getFuelQuantity()) {
             this.setFuelQuantity(this.getFuelQuantity() - (this.getFuelConsumption()+fuelConsumptionClimatic) * distance);
             return String.format("Truck travelled %s km", decimal.format(distance));
         } else {
