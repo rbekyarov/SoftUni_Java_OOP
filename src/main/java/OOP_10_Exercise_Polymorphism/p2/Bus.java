@@ -8,7 +8,7 @@ public class Bus extends Vehicle {
     public Bus(double fuelQuantity, double fuelConsumption, double tankCapacity) {
         super(fuelQuantity, fuelConsumption, tankCapacity);
     }
-
+    @Override
     public String driveEmpty(double distance) {
         DecimalFormat decimal = new DecimalFormat("##.##");
         if (this.getFuelConsumption() * distance <= this.getFuelQuantity()) {

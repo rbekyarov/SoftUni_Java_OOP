@@ -49,7 +49,7 @@ public class Main {
 
                 case "DriveEmpty":
 
-                    //bus.driveEmpty(Double.parseDouble(splitedCommand[2]));
+                    bus.driveEmpty(Double.parseDouble(splitedCommand[2]));
                     break;
             }
         }

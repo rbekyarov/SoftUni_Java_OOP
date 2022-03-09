@@ -39,4 +39,5 @@ public abstract class Vehicle {
     abstract String drive(double distance);
 
     abstract void refuel(double liters);
+    abstract String driveEmpty(double liters);
 }

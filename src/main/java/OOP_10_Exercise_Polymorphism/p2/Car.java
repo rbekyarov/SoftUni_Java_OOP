@@ -34,4 +34,9 @@ public class Car extends Vehicle {
 
 
     }
+
+    @Override
+    String driveEmpty(double liters) {
+        return null;
+    }
 }
