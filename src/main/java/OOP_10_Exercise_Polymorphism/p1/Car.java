@@ -1,6 +1,6 @@
 package OOP_10_Exercise_Polymorphism.p1;
 
-import java.math.BigDecimal;
+
 import java.text.DecimalFormat;
 
 public class Car extends Vehicle {
@@ -11,7 +11,7 @@ public class Car extends Vehicle {
 
     @Override
     public String drive(double distance) {
-        DecimalFormat decimal = new DecimalFormat("##,##");
+        DecimalFormat decimal = new DecimalFormat("##.##");
         if (this.getFuelConsumption() * distance < this.getFuelQuantity()) {
             setFuelQuantity(this.getFuelQuantity() - (this.getFuelConsumption()+fuelConsumptionClimatic) * distance);
            return String.format("Car travelled %s km", decimal.format(distance));
