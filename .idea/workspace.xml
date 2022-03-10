@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0183d89a-8ed0-4381-ba72-fd673e3ec4d8" name="Changes" comment="Polymorphism">
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_10_Exercise_Polymorphism/p3/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_10_Exercise_Polymorphism/p3/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_10_Exercise_Polymorphism/p3/Felime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_10_Exercise_Polymorphism/p3/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_10_Exercise_Polymorphism/p3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_10_Exercise_Polymorphism/p3/Mammal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_10_Exercise_Polymorphism/p3/Meat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_10_Exercise_Polymorphism/p3/Mouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_10_Exercise_Polymorphism/p3/Tiger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_10_Exercise_Polymorphism/p3/Vegetable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_10_Exercise_Polymorphism/p3/Zebra.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OOP_10_Exercise_Polymorphism/p3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_10_Exercise_Polymorphism/p3/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,14 +178,7 @@
       <workItem from="1645463321585" duration="4664000" />
       <workItem from="1646121849084" duration="2551000" />
       <workItem from="1646220094116" duration="40953000" />
-      <workItem from="1646810585784" duration="18064000" />
-    </task>
-    <task id="LOCAL-00010" summary="Working With Abstraction">
-      <created>1640274656743</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1640274656743</updated>
+      <workItem from="1646810585784" duration="19155000" />
     </task>
     <task id="LOCAL-00011" summary="Working With Abstraction">
       <created>1640276919941</created>
@@ -534,7 +516,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646848738923</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="Polymorphism">
+      <created>1646929814313</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1646929814313</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
