@@ -1,5 +1,7 @@
 package OOP_10_Exercise_Polymorphism.p3;
 
+import java.util.List;
+
 public abstract class Animal {
     private String animalName;
     private String animalType;
