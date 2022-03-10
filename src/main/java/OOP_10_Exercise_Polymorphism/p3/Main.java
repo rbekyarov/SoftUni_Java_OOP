@@ -9,7 +9,6 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         List<Animal> animals = new ArrayList<>();
         Animal animal = null;
-
         String input = scanner.nextLine();
         int countInputLine = 0;
         while (!input.equals("End")) {
@@ -45,13 +44,9 @@ public class Main {
                         animal.eat(new Meat(Integer.parseInt(inputLine[1])));
                         System.out.println(animal);
                         break;
-
                 }
             }
-
             input = scanner.nextLine();
         }
-
-        System.out.println();
     }
 }
