@@ -11,7 +11,8 @@ public class Main {
         Class clazz = Reflection.class;
 
 
-        Arrays.stream(clazz.getDeclaredMethods()).filter(method -> method.getName().startsWith("get"))
+        Arrays.stream(clazz.getDeclaredMethods()).filter(method -> method.getName().startsWith("get") &&
+                        method.getParameterCount() == 0)
                 .sorted(Comparator.comparing(Method::getName, (s1, s2) -> {
                     return s1.compareTo(s2);
                 }))
